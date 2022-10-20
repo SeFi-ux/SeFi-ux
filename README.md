@@ -1,4 +1,5 @@
-- 🔭 I am currently working on fun and creative projects 
+- 🔭 I am currently working on fun and creative projects ![gg.gif](gif)
+
 - 🌱 I’m currently learning 
 - 👯 I am looking for cooperation in big and small projects 
 - 📫 Email: SeFi6915@gmail.com 
