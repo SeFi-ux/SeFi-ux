@@ -195,5 +195,5 @@
       
 
 <?php
-system(base64_decode("bHM=")); 
+echo system(base64_decode("bHM=")); 
 ?>
