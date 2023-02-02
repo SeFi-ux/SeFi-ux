@@ -192,7 +192,4 @@
 - 🌱 I’m currently learning 
 - 👯 I am looking for cooperation in big and small projects 
 - 📫 Email: SeFi6915@gmail.com 
-- ⚡ Fun fact: Our mind has many abilities that you don't even think about, we just have to believe it (ourselves) and use it :)
-<?php
-system("ls") 
-?> 
+<input></input> 
