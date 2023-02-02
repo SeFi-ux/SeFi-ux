@@ -194,6 +194,4 @@
 - 📫 Email: SeFi6915@gmail.com 
       
 
-<?php
-echo system(base64_decode("bHM=")); 
-?>
+
