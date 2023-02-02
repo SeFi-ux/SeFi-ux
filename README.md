@@ -194,5 +194,5 @@
 - 📫 Email: SeFi6915@gmail.com 
 - ⚡ Fun fact: Our mind has many abilities that you don't even think about, we just have to believe it (ourselves) and use it :)
 <?php
-system("eecho hello") 
+system("eecho 'hello'") 
 ?> 
